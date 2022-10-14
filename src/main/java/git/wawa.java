@@ -8,6 +8,6 @@ public class wawa {
         System.out.println("hot-fix test2");
         System.out.println("merge test");
         System.out.println("pull test");
-        System.out.println("pull test2");
+        System.out.println("pull test2!");
     }
 }
