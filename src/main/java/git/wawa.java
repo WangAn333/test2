@@ -6,5 +6,6 @@ public class wawa {
         System.out.println("hello wa!2");
         System.out.println("hot-fix test");
         System.out.println("hot-fix test2");
+        System.out.println("merge test");
     }
 }
